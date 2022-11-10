@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDataAdvancedQueringApplication {
+public class SpringDataAdvancedQueryingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringDataAdvancedQueringApplication.class, args);
+        SpringApplication.run(SpringDataAdvancedQueryingApplication.class, args);
     }
 
 }
+
